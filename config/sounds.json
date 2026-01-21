@@ -1,0 +1,505 @@
+{
+  "columns": 5,
+  "sounds": [
+    {
+      "label": "Vine Boom",
+      "filename": "vine_boom.mp3",
+      "emoji": "💥"
+    },
+    {
+      "label": "BRUH",
+      "filename": "bruh.mp3",
+      "emoji": "😑"
+    },
+    {
+      "label": "Emotional Damage",
+      "filename": "emotional_damage.mp3",
+      "emoji": "🥲"
+    },
+    {
+      "label": "Metal Gear Alert",
+      "filename": "metal_gear_alert.mp3",
+      "emoji": "❗"
+    },
+    {
+      "label": "Windows XP Error",
+      "filename": "windows_xp_error.mp3",
+      "emoji": "🪟"
+    },
+    {
+      "label": "Windows XP Startup",
+      "filename": "windows_xp_startup.mp3",
+      "emoji": "🟦"
+    },
+    {
+      "label": "Discord Notification",
+      "filename": "discord_notification.mp3",
+      "emoji": "🔔"
+    },
+    {
+      "label": "Air Horn (MLG)",
+      "filename": "airhorn.mp3",
+      "emoji": "📣"
+    },
+    {
+      "label": "Sad Violin",
+      "filename": "sad_violin.mp3",
+      "emoji": "🎻"
+    },
+    {
+      "label": "Wah-Wah (Sad Trombone)",
+      "filename": "wah_wah.mp3",
+      "emoji": "🥁"
+    },
+    {
+      "label": "Oh No (TikTok)",
+      "filename": "oh_no.mp3",
+      "emoji": "🚫"
+    },
+    {
+      "label": "To Be Continued…",
+      "filename": "to_be_continued.mp3",
+      "emoji": "➡️"
+    },
+    {
+      "label": "AND HIS NAME IS JOHN CENA",
+      "filename": "john_cena.mp3",
+      "emoji": "🔊"
+    },
+    {
+      "label": "Why are you running?!",
+      "filename": "why_are_you_running.mp3",
+      "emoji": "🏃"
+    },
+    {
+      "label": "Surprised Pikachu",
+      "filename": "surprised_pikachu.mp3",
+      "emoji": "😮"
+    },
+    {
+      "label": "Dramatic Rise",
+      "filename": "riser_dramatic.mp3",
+      "emoji": "📈"
+    },
+    {
+      "label": "Anime WOW",
+      "filename": "anime_wow.mp3",
+      "emoji": "🤯"
+    },
+    {
+      "label": "What the hell?!",
+      "filename": "what_the_hell.mp3",
+      "emoji": "😳"
+    },
+    {
+      "label": "Nice.",
+      "filename": "nice.mp3",
+      "emoji": "😎"
+    },
+    {
+      "label": "Let him cook",
+      "filename": "let_him_cook.mp3",
+      "emoji": "🍳"
+    },
+    {
+      "label": "Sigma / “GigaChad” music",
+      "filename": "sigma_music.mp3",
+      "emoji": "🗿"
+    },
+    {
+      "label": "GigaChad “Oh yes”",
+      "filename": "gigachad_oh_yes.mp3",
+      "emoji": "🗿"
+    },
+    {
+      "label": "Never Gonna Give You Up (clip)",
+      "filename": "rickroll.mp3",
+      "emoji": "🕺"
+    },
+    {
+      "label": "Bad to the Bone (riff)",
+      "filename": "bad_to_the_bone.mp3",
+      "emoji": "🦴"
+    },
+    {
+      "label": "X-Files Theme",
+      "filename": "x_files_theme.mp3",
+      "emoji": "🛸"
+    },
+    {
+      "label": "Illuminati Confirmed",
+      "filename": "illuminati_confirmed.mp3",
+      "emoji": "👁️"
+    },
+    {
+      "label": "Mission Failed",
+      "filename": "mission_failed.mp3",
+      "emoji": "❌"
+    },
+    {
+      "label": "WASTED",
+      "filename": "gta_wasted.mp3",
+      "emoji": "💀"
+    },
+    {
+      "label": "Ah shit, here we go again",
+      "filename": "gta_ah_shit.mp3",
+      "emoji": "🚶"
+    },
+    {
+      "label": "Minecraft OOF",
+      "filename": "minecraft_oof.mp3",
+      "emoji": "🧱"
+    },
+    {
+      "label": "Roblox OOF",
+      "filename": "roblox_oof.mp3",
+      "emoji": "😵"
+    },
+    {
+      "label": "Hitmarker",
+      "filename": "hitmarker.mp3",
+      "emoji": "🎯"
+    },
+    {
+      "label": "Headshot",
+      "filename": "headshot.mp3",
+      "emoji": "💥"
+    },
+    {
+      "label": "Critical Hit",
+      "filename": "critical_hit.mp3",
+      "emoji": "⚔️"
+    },
+    {
+      "label": "Rewind",
+      "filename": "rewind_record.mp3",
+      "emoji": "⏪"
+    },
+    {
+      "label": "Record Scratch",
+      "filename": "record_scratch.mp3",
+      "emoji": "💿"
+    },
+    {
+      "label": "Dramatic Gasp",
+      "filename": "dramatic_gasp.mp3",
+      "emoji": "😱"
+    },
+    {
+      "label": "Cartoon Splat",
+      "filename": "cartoon_splat.mp3",
+      "emoji": "🥞"
+    },
+    {
+      "label": "Cartoon Fall",
+      "filename": "cartoon_fall.mp3",
+      "emoji": "🪂"
+    },
+    {
+      "label": "BONK",
+      "filename": "cartoon_bonk.mp3",
+      "emoji": "🥖"
+    },
+    {
+      "label": "Goofy Ahh",
+      "filename": "goofy_ahh.mp3",
+      "emoji": "🤡"
+    },
+    {
+      "label": "Sitcom Laugh Track",
+      "filename": "laugh_track.mp3",
+      "emoji": "😂"
+    },
+    {
+      "label": "Clown Honk",
+      "filename": "clown_honk.mp3",
+      "emoji": "🤡"
+    },
+    {
+      "label": "Ta-da!",
+      "filename": "tada.mp3",
+      "emoji": "✨"
+    },
+    {
+      "label": "Error Buzz",
+      "filename": "error_buzz.mp3",
+      "emoji": "⚠️"
+    },
+    {
+      "label": "Notification Pop",
+      "filename": "notification_pop.mp3",
+      "emoji": "🫧"
+    },
+    {
+      "label": "Camera Shutter",
+      "filename": "camera_shutter.mp3",
+      "emoji": "📸"
+    },
+    {
+      "label": "Vine Thud",
+      "filename": "vine_thud.mp3",
+      "emoji": "🪨"
+    },
+    {
+      "label": "Bass Drop",
+      "filename": "bass_drop.mp3",
+      "emoji": "🔊"
+    },
+    {
+      "label": "Bass Boosted",
+      "filename": "bass_boosted.mp3",
+      "emoji": "📢"
+    },
+    {
+      "label": "Okay, let’s go!",
+      "filename": "ok_lets_go.mp3",
+      "emoji": "✅"
+    },
+    {
+      "label": "Let’s go!",
+      "filename": "lets_go.mp3",
+      "emoji": "🔥"
+    },
+    {
+      "label": "Let’s go gambling!",
+      "filename": "lets_go_gambling.mp3",
+      "emoji": "🎰"
+    },
+    {
+      "label": "Nope",
+      "filename": "nope.mp3",
+      "emoji": "🙅"
+    },
+    {
+      "label": "Yep",
+      "filename": "yep.mp3",
+      "emoji": "👍"
+    },
+    {
+      "label": "Sus",
+      "filename": "sus.mp3",
+      "emoji": "🕵️"
+    },
+    {
+      "label": "Among Us Report",
+      "filename": "among_us_report.mp3",
+      "emoji": "🚨"
+    },
+    {
+      "label": "Among Us Kill",
+      "filename": "among_us_kill.mp3",
+      "emoji": "🗡️"
+    },
+    {
+      "label": "Victory Royale!",
+      "filename": "victory_royale.mp3",
+      "emoji": "🏆"
+    },
+    {
+      "label": "Fortnite Knock / Downed",
+      "filename": "fortnite_knock.mp3",
+      "emoji": "🩹"
+    },
+    {
+      "label": "FBI! OPEN UP!",
+      "filename": "fbi_open_up.mp3",
+      "emoji": "🚪"
+    },
+    {
+      "label": "Police Siren",
+      "filename": "police_siren.mp3",
+      "emoji": "🚓"
+    },
+    {
+      "label": "Danger Alarm",
+      "filename": "danger_alarm.mp3",
+      "emoji": "🚨"
+    },
+    {
+      "label": "Explosion",
+      "filename": "explosion.mp3",
+      "emoji": "💣"
+    },
+    {
+      "label": "Reload",
+      "filename": "gun_reload.mp3",
+      "emoji": "🔫"
+    },
+    {
+      "label": "Punch",
+      "filename": "punch.mp3",
+      "emoji": "👊"
+    },
+    {
+      "label": "Kick",
+      "filename": "kick.mp3",
+      "emoji": "🦵"
+    },
+    {
+      "label": "Door Slam",
+      "filename": "door_slam.mp3",
+      "emoji": "🚪"
+    },
+    {
+      "label": "Glass Break",
+      "filename": "glass_break.mp3",
+      "emoji": "🧊"
+    },
+    {
+      "label": "Heartbeat",
+      "filename": "heartbeat.mp3",
+      "emoji": "❤️"
+    },
+    {
+      "label": "Anime “YEAH!”",
+      "filename": "anime_yeah.mp3",
+      "emoji": "😤"
+    },
+    {
+      "label": "NANI?!",
+      "filename": "nani.mp3",
+      "emoji": "❓"
+    },
+    {
+      "label": "Omae wa mou shindeiru",
+      "filename": "omae_wa.mp3",
+      "emoji": "🥷"
+    },
+    {
+      "label": "It was at this moment…",
+      "filename": "it_was_at_this_moment.mp3",
+      "emoji": "🧠"
+    },
+    {
+      "label": "I like your cut, G",
+      "filename": "i_like_your_cut_g.mp3",
+      "emoji": "✂️"
+    },
+    {
+      "label": "WOW (MLG)",
+      "filename": "wow_mlg.mp3",
+      "emoji": "🤯"
+    },
+    {
+      "label": "No God! Please no!",
+      "filename": "no_god_please_no.mp3",
+      "emoji": "🙅‍♂️"
+    },
+    {
+      "label": "WHYYYY",
+      "filename": "why.mp3",
+      "emoji": "😫"
+    },
+    {
+      "label": "Sad Trombone",
+      "filename": "sad_trombone.mp3",
+      "emoji": "😢"
+    },
+    {
+      "label": "Dramatic Chord",
+      "filename": "dramatic_chord.mp3",
+      "emoji": "🎹"
+    },
+    {
+      "label": "Quoi ?!",
+      "filename": "french_quoi.mp3",
+      "emoji": "🇫🇷"
+    },
+    {
+      "label": "Wesh alors",
+      "filename": "french_wesh.mp3",
+      "emoji": "🗣️"
+    },
+    {
+      "label": "Quoicoubeh",
+      "filename": "french_quoicoubeh.mp3",
+      "emoji": "🥴"
+    },
+    {
+      "label": "Oh putain…",
+      "filename": "french_oh_putain.mp3",
+      "emoji": "😵"
+    },
+    {
+      "label": "C’est pas faux",
+      "filename": "french_cest_pas_faux.mp3",
+      "emoji": "🏰"
+    },
+    {
+      "label": "Ta gueule !",
+      "filename": "french_ta_gueule.mp3",
+      "emoji": "🤐"
+    },
+    {
+      "label": "Bah oui",
+      "filename": "french_bah_oui.mp3",
+      "emoji": "🤷"
+    },
+    {
+      "label": "Non mais allô",
+      "filename": "french_non_mais_allo.mp3",
+      "emoji": "📞"
+    },
+    {
+      "label": "Oh là là",
+      "filename": "french_ohlala.mp3",
+      "emoji": "🥖"
+    },
+    {
+      "label": "MDRRR",
+      "filename": "french_mdrr.mp3",
+      "emoji": "😂"
+    },
+    {
+      "label": "Jeopardy Thinking",
+      "filename": "jeopardy_think.mp3",
+      "emoji": "🤔"
+    },
+    {
+      "label": "Startup Chime",
+      "filename": "startup_chime.mp3",
+      "emoji": "💻"
+    },
+    {
+      "label": "Shutdown Sound",
+      "filename": "shutdown_sound.mp3",
+      "emoji": "📴"
+    },
+    {
+      "label": "Level Up",
+      "filename": "level_up.mp3",
+      "emoji": "🆙"
+    },
+    {
+      "label": "Coin",
+      "filename": "coin.mp3",
+      "emoji": "🪙"
+    },
+    {
+      "label": "Mario 1-Up",
+      "filename": "mario_1up.mp3",
+      "emoji": "🍄"
+    },
+    {
+      "label": "Wilhelm Scream",
+      "filename": "wilhelm_scream.mp3",
+      "emoji": "😱"
+    },
+    {
+      "label": "Dramatic Reveal",
+      "filename": "dramatic_reveal.mp3",
+      "emoji": "🎬"
+    },
+    {
+      "label": "Crowd “OHHH”",
+      "filename": "crowd_ohhh.mp3",
+      "emoji": "😮"
+    },
+    {
+      "label": "Applause",
+      "filename": "applause.mp3",
+      "emoji": "👏"
+    }
+  ]
+}
